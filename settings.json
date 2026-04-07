@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DesuCraftt.aternos.me",
-    "port": 54609,
+    "ip": "desucraft542.mcsh.io",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
